@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2024-03-14T12:20:43.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="z9pruj-CRv_xQzumcRc_" version="24.0.6" type="device">
+  <diagram name="第 1 页" id="6-9p50glK1qwrQBcFCME">
+    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;開始&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.014;exitY=0.709;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="250" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-3" value="用杯子裝水" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.32;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-5" value="把牙膏擠在牙刷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="360" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-7" value="刷牙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-7" target="WitKnTH8oNmNcWBrTMfL-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-9" value="不吐泡沫" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="585" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.56;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.367;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-7" target="WitKnTH8oNmNcWBrTMfL-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="540" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-11" value="吐泡沫" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="349" y="580" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+            <mxPoint x="420" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-13" value="漱口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="250" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-15" value="直接吞掉" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="880" as="sourcePoint" />
+            <mxPoint x="350" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WitKnTH8oNmNcWBrTMfL-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="880" as="sourcePoint" />
+            <mxPoint x="320" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WitKnTH8oNmNcWBrTMfL-18" value="結束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="264" y="930" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
